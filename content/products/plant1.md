@@ -1,6 +1,5 @@
 ---
 layout: product
-id: '1'
 price: '49.40'
 title: Carpi
 description: >-
